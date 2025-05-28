@@ -1,5 +1,5 @@
 > ⭐ **If you find this script useful, please consider giving it a star — it helps a lot!**  
-> ![GitHub Repo stars](https://img.shields.io/github/stars/Kyaa-A/uranium-auto-explorer?style=social)
+> ![GitHub Repo stars](https://img.shields.io/github/stars/Kyaa-A/uranium-autoclicker?style=social)
 
 # ☢️ Uranium Auto Explorer + Detector
 
