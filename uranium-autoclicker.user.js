@@ -14,6 +14,13 @@
 (function () {
     'use strict';
 
+    if (!localStorage.getItem('uraniumAutoExploreStarPrompt')) {
+        setTimeout(() => {
+            alert("⭐ Enjoying this script?\nPlease consider giving it a star on GitHub!\n\n👉 https://github.com/Kyaa-A/uranium-autoclicker");
+            localStorage.setItem('uraniumAutoExploreStarPrompt', 'true');
+        }, 10000); // Show after 10 seconds
+    }
+
     const buttonTitles = ['Auto Collector', 'Shard Multiplier', 'Conveyor Booster'];
 
     function simulateClick(element, offsetX = 0, offsetY = 0) {
