@@ -32,9 +32,7 @@ A Tampermonkey userscript that **automatically explores Uranium world tiles** an
 1. Install Tampermonkey if you haven’t already.
 2. Click the link below to install the script:
 
-<p>
-  👉 <a href="https://raw.githubusercontent.com/Kyaa-A/uranium-autoclicker/main/uranium-autoclicker.user.js" target="_blank" rel="noopener noreferrer"><strong>Install the script via GitHub</strong></a>
-</p>
+👉 **[Install the script via GitHub](https://raw.githubusercontent.com/Kyaa-A/uranium-autoclicker/main/uranium-autoclicker.user.js)**
 
 3. Open Uranium and start exploring effortlessly.
 
